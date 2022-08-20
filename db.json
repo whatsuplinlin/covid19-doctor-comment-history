@@ -194,19 +194,6 @@
                     "date": "03-08-2022" 
                 }
             ]
-        },
-        {
-            "id": 16,
-            "comment": 
-            [
-                { 
-                    "patient_name": "Kristen", 
-                    "patient_surname": "Stewart", 
-                    "name": "Angelina Jolie", 
-                    "comment": "Do some exercise", 
-                    "date": "04-03-2021" 
-                }
-            ]
         }
     ]
 }
